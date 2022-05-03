@@ -519,7 +519,7 @@ other:
       label: 是否开启公告
       type: radio
       data-type: bool
-      default: true
+      default: false
       options:
         - value: true
           label: 开启
@@ -535,7 +535,7 @@ other:
       label: 是否开启聚焦
       type: radio
       data-type: bool
-      default: true
+      default: false
       options:
         - value: true
           label: 开启
