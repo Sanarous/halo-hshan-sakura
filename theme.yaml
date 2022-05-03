@@ -1,0 +1,11 @@
+id: hshan-sakura
+name: hanshan-sakura
+author:
+  name: Sanarous
+  website: https://bestzuo.cn
+description: 简约美，樱花美
+logo:
+website: https://github.com/Sanarous/halo-hshan-sakura.git
+repo: https://github.com/Sanarous/halo-hshan-sakura.git
+version: 1.0
+require: 1.3.0
